@@ -1,4 +1,7 @@
-# Overview
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+# Java Class Fundamentals
+## Overview
 This repository started when I taught object oriented programming for Third year undergraduate students in Engineering in 2021.
 
 It consists of Java programs demonstrating fundamental and more advanced concepts covered in class.
@@ -7,7 +10,7 @@ There are over a dozen programs, each demonstrating a specific concept or techni
 
 They are largely drawn from or inspired by the classic textbook "Java: How to Program" by Deitel & Deitel, with some additional examples and exercises.
 
-# Java Programming Examples
+## Java Programming Examples
 Basic programs include:
 - [GradeBook](GradeBook/src/GradeBookTest.java) which demonstrates the use of classes and methods to manage student grades.
 - [Account](AccountTesting/src/AccountTesting/AccountTest.java) which creates a simple bank account system with deposit and withdrawal functionality.
@@ -20,12 +23,12 @@ More advanced programs include:
 - [GUI](kamaulincoln/Java-Class-Fundamentals/ScreenSaver/src/ScreenSaverTest.java) which demonstrates how to create a simple graphical user interface (GUI) using Java Swing.
 
 
-# How to run the programs
+## How to run the programs
 1. Clone the repository to your local machine.
 2. Open the project in your favorite IDE (e.g. VS code, IntelliJ IDEA, Eclipse).
 3. Navigate to the `src` directory .
 4. Open the Java file you want to run.
 5. Run the file using your IDE's run configuration or from the command line using `java <filename>.java`.
 
-# License
+## License
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
